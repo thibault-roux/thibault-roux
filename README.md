@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## What I do
 
 - 💡 One of my objectives is to propose a metric that correspond to human expectations but is as interpretable as Word Error Rate.
-- 🔍 In my thesis, I developed a data set using 7,150 human choices which were annotated by 143 great people! This ✨open-access✨ data set can be used to evaluate rigorously ASR metrics so we can finally get rid of Word Error Rate. You are more than welcome to develop your own metric and to evaluate it on the HATS dataset using our [toolkit](https://github.com/thibault-roux/metric-evaluator) 🤗
+- 🔍 I developed a data set using 7,150 human choices which were annotated by 143 great people! This ✨open-access✨ data set can be used to evaluate rigorously ASR metrics so we can finally get rid of Word Error Rate. You are more than welcome to develop your own metric and to evaluate it on the HATS dataset using our [toolkit](https://github.com/thibault-roux/metric-evaluator) 🤗
 - 📊 One of the major implications of my work is the analysis of the impact of ASR hyperparameters on performances using diverse metrics. My research tends to show that metrics are not necessarily correlated at the transcription and system level.
 
 ## Other Interests
