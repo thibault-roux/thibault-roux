@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 ## My Social Networks
 
-Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/thibault-ba%C3%B1eras-roux-700aa21b0/) or [Twitter/X](https://www.linkedin.com/in/thibault-ba%C3%B1eras-roux-700aa21b0/) 🌐
+Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/thibault-ba%C3%B1eras-roux-700aa21b0/) or [Twitter/X](https://twitter.com/BanerasRoux) 🌐
