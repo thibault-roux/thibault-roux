@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-🎓 I'm a passionate Ph.D. student specializing in Natural Language Processing (NLP) and Speech Processing. My research focuses on the evaluation of Automatic Speech Recognition (ASR) systems, the analysis of their errors and their particularities! I work between Nantes and Avignon Universities 🏛 at the [LS2N](https://www.ls2n.fr/) and the [LIA](https://lia.univ-avignon.fr/). My supervisors are [Richard Dufour](https://cv.hal.science/richard-dufour), [Jane Wottawa](https://janewottawa.wordpress.com/) and [Mickael Rouvier](https://cv.hal.science/mickael-rouvier). Previously, I studied Cross-Lingual Embeddings and their evaluation methods at Aix-Marseille University with [Carlos Ramisch](https://pageperso.lis-lab.fr/carlos.ramisch/) and Manon Scholivet.
+🎓 I'm a Ph.D. student specializing in Natural Language Processing (NLP) and Speech Processing. My research focuses on the evaluation of Automatic Speech Recognition (ASR) systems, the analysis of their errors and their particularities! I work between Nantes and Avignon Universities 🏛 at the [LS2N](https://www.ls2n.fr/) and the [LIA](https://lia.univ-avignon.fr/). My supervisors are [Richard Dufour](https://cv.hal.science/richard-dufour), [Jane Wottawa](https://janewottawa.wordpress.com/) and [Mickael Rouvier](https://cv.hal.science/mickael-rouvier). Previously, I studied Cross-Lingual Embeddings and their evaluation methods at Aix-Marseille University with [Carlos Ramisch](https://pageperso.lis-lab.fr/carlos.ramisch/) and Manon Scholivet.
 
 ## What I do
 
