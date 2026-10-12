@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-🎓 I'm a Postdoctoral Researcher specializing in Natural Language Processing (NLP) and Speech Processing. Right now, I'm working with [Thomas François](https://thomasfrancoisucl.wixsite.com/homepage) on the [iRead4Skill European Project](https://iread4skills.com/), developing tools to improve reading skills for adults! In my Phd, my research focused on the evaluation of Automatic Speech Recognition (ASR) systems under the supervision of 🏛 [Richard Dufour](https://cv.hal.science/richard-dufour), [Jane Wottawa](https://janewottawa.wordpress.com/) and [Mickael Rouvier](https://cv.hal.science/mickael-rouvier). Previously, I studied Cross-Lingual Embeddings and their evaluation methods with [Carlos Ramisch](https://pageperso.lis-lab.fr/carlos.ramisch/) and Manon Scholivet.
+🎓 I'm a Postdoctoral Researcher specializing in Natural Language Processing (NLP) and Speech Processing. Previously, I was working with [Thomas François](https://thomasfrancoisucl.wixsite.com/homepage) on the [iRead4Skill European Project](https://iread4skills.com/), developing tools to improve reading skills for adults! In my Phd, my research focused on the evaluation of Automatic Speech Recognition (ASR) systems under the supervision of 🏛 [Richard Dufour](https://cv.hal.science/richard-dufour), [Jane Wottawa](https://janewottawa.wordpress.com/) and [Mickael Rouvier](https://cv.hal.science/mickael-rouvier). A while ago, I studied Cross-Lingual Embeddings and their evaluation methods with [Carlos Ramisch](https://pageperso.lis-lab.fr/carlos.ramisch/) and Manon Scholivet.
 
 ## Works
 
